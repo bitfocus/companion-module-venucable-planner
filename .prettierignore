@@ -1,3 +1,2 @@
-release/
-pkg/
-package-lock.json
+package.json
+/LICENSE.md
